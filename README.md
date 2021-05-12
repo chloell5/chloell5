@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @chloell5
+- 👋 Hi, I’m Chloe
 - 👀 I’m interested in InfoSec, tea, and gardening
 - 🌱 I’m currently learning Ruby and backend development in general
 - 💞️ I’m looking to collaborate on anything!
