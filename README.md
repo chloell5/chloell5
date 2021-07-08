@@ -1,10 +1,5 @@
-- 👋 Hi, I’m Chloe
-- 👀 I’m interested in InfoSec, tea, and gardening
+- 💞️ Hi, I’m Chloe
 - 🌱 I’m currently learning Ruby and backend development in general
-- 💞️ I’m looking to collaborate on anything!
-- 📫 How to reach me @ChloeLL5 on twitter
+- 📫 Reach me @ChloeLL5 on twitter
 
-<!---
-chloell5/chloell5 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+[![Chloe's GitHub stats](https://github-readme-stats.vercel.app/api?username=chloell5&count_private=true&theme=cobalt&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
