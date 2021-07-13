@@ -6,6 +6,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Ruby   6 hrs 49 mins   █████████████████████████   100.00 % 
+Ruby   8 hrs 58 mins   ████████████████████████▓   99.01 % 
+HTML   5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.99 % 
 ```
 <!--END_SECTION:waka-->
