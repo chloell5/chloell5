@@ -6,8 +6,6 @@
 
 <!--START_SECTION:waka-->
 ```text
-Ruby         5 hrs 9 mins    ████████████████████████▓   98.14 % 
-Text         4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.48 % 
-Git Config   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.38 % 
+Ruby   2 hrs 36 mins   █████████████████████████   99.97 % 
 ```
 <!--END_SECTION:waka-->
