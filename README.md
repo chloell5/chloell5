@@ -6,8 +6,6 @@
 
 <!--START_SECTION:waka-->
 ```text
-Ruby         51 mins         █████████████████████░░░░   84.33 % 
-Git Config   8 mins          ███▒░░░░░░░░░░░░░░░░░░░░░   13.49 % 
-LESS         1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.04 % 
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
