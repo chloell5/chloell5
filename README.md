@@ -6,6 +6,8 @@
 
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+Ruby       3 hrs 14 mins   ███████████████████▒░░░░░   77.50 % 
+ERB        46 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.58 % 
+Markdown   9 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.92 % 
 ```
 <!--END_SECTION:waka-->
