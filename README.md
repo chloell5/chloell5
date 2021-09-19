@@ -6,6 +6,6 @@
 
 <!--START_SECTION:waka-->
 ```text
-Ruby   15 mins         ████████████████████████▒   97.58 % 
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
