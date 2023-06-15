@@ -1,4 +1,4 @@
-<h1 align="center">🏳️‍⚧️Hello!🏳️‍⚧️</h1>
+<h1 align="center">Hello!</h1>
 <h2 align="center">My name is Chloe, and I'm an eternal student and a web developer</h2>
 <h3 align="center">I'm currently learning JavaScript by building a fan site for Avatar Legends: The Roleplaying Game</h3>
 
